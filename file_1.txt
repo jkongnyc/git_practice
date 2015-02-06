@@ -1,3 +1,3 @@
-This line does NOT yet exist on our remote repository!
+This line does EXISTS on our remote repository!
 It's hot out there today, whether you like it or not!
 
